@@ -1,5 +1,5 @@
 import PhaserGame from "./phaser";
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 function PhaserContainer(props) {
   const { width, height } = props;
 
